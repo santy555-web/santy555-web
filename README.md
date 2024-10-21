@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 2024 github company account (Globalshala)
-![Screenshot 2024-10-21 173859](https://github.com/user-attachments/assets/927e1be9-311e-4026-8350-91bd563f23a0)
+![Screenshot 2024-10-21 173859](https://github.com/user-attachments/assets/386b894a-3713-47ee-9372-96ae5119d040)
 
 2023 github company account (Globalshala)
 ![Screenshot 2024-10-21 173916](https://github.com/user-attachments/assets/71011c41-c75a-4fc3-b941-698d5d7f9813)
