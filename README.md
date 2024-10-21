@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Santosh Lokare
-- 👀 I’m interested in Angular Developer
 - 📫 How to reach me:-gmail: santoshlokare555@gmail.com
 
 <!---
